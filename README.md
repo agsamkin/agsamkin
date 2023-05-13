@@ -2,8 +2,9 @@ Hi 👋 My name is Aleksei
 ========================
 
 ### Socials
-[![Gmail](https://img.shields.io/badge/Gmail:a.g.samkin@gmail.com-dd453a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.g.samkin@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram:@agsamkin-239ad6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/agsamkin)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:a.g.samkin@gmail.com) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/agsamkin) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/алексей-самкин-1ab387184) 
 
 ### Skills
 ![Java](https://img.shields.io/badge/Java-ea2d2f?style=for-the-badge)
