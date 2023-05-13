@@ -30,7 +30,7 @@ Hi 👋 My name is Aleksei
 
 <b>My LeetCode stats</b>
 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=samething&theme=dark)](https://github.com/samething/leetcode-stats)
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=samething&theme=dark)](https://leetcode.com/samething/)
 
 <b>My GitHub Stats</b>
 
