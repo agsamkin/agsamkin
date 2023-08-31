@@ -8,7 +8,6 @@ Hi 👋 My name is Aleksei
 
 ### Skills
 ![Java](https://img.shields.io/badge/Java-ea2d2f?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-1a415e?style=for-the-badge&logo=python)
 ![1С](https://img.shields.io/badge/1С-fef200?style=for-the-badge)
 
 ![Spring](https://img.shields.io/badge/Spring-6cb23e?style=for-the-badge&logo=Spring&logoColor=white)
