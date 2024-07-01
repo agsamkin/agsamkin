@@ -26,7 +26,3 @@ Hi 👋 My name is Aleksei
 ![GitLab](https://img.shields.io/badge/GitLab-24292f?style=for-the-badge&logo=gitlab&logoColor=orange)
 
 ![Jira](https://img.shields.io/badge/Jira-054fdb?style=for-the-badge&logo=jira&logoColor=white)
-
-<b>My LeetCode stats</b>
-
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=samething&theme=dark)](https://leetcode.com/samething/)
